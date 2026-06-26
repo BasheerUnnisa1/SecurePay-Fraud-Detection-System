@@ -39,6 +39,13 @@ The platform helps improve digital payment security, reduce fraud risks, and str
 
 ---
 
+🚀 Live Demo
+
+🎥 Project Demo
+https://youtu.be/tS-9eumr1dM
+
+---
+
 # ✨ Key Highlights
 
 🔍 AI-Powered Fraud Detection
